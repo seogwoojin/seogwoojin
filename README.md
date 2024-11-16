@@ -6,7 +6,7 @@
 
 [2023] UOSPC 은상 (서울시립대 알고리즘 대회), 서울시립대 홍보대사
 
-[2024] 피로그래밍 20기, UOSLIFE Backend Enginner 4기 (시대생)
+[2024] 피로그래밍 20기, UOSLIFE Backend Enginner 4기 (시대생), 서울시립대 해커톤 최우수상 (https://frontend-2km.vercel.app/)
 
 
 - 📫 How to reach me: seogwoojin@uoslife.team
