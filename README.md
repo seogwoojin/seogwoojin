@@ -1,4 +1,4 @@
-### 어제보다 오늘 더 멋진 개발자가 되기 👋
+### 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zaza0804)](https://solved.ac/백준아이디/)
 
 가치있는 프로덕트를 찾아 이를 실현할 수 있는 엔지니어가 되기 위해 노력합니다.
@@ -6,7 +6,7 @@
 
 [2023] UOSPC 은상 (서울시립대 알고리즘 대회), 서울시립대 홍보대사
 
-[2024] 피로그래밍 20기, UOSLIFE Backend Enginner 4기 (시대생), 서울시립대 해커톤 대상
+[2024] 피로그래밍 20기, UOSLIFE Backend Enginner 4기 (<a href="https://github.com/uoslife/server-meeting">시대팅5</a>), 서울시립대 해커톤 대상
 
 
 - 📫 How to reach me: seogwoojin@uoslife.team
