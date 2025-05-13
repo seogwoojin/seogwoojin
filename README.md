@@ -8,6 +8,8 @@
 
 [2024] 피로그래밍 20기, UOSLIFE Backend Enginner 4기 (<a href="https://github.com/uoslife/server-meeting">시대팅5</a>), 서울시립대 해커톤 대상
 
+[2025] 프로그라피 10기
+
 
 - 📫 How to reach me: seogwoojin@uoslife.team
 - 💬 My Blog: https://powerofwriting.tistory.com/
