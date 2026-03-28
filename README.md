@@ -10,6 +10,8 @@
 
 [2025] 프로그라피 10기, 신한은행 ICT 인턴십
 
+[2026] Naver Financial BE
+
 
 - 📫 How to reach me: seogwoojin@uoslife.team
 - 💬 My Blog: https://powerofwriting.tistory.com/
