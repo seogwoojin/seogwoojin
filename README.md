@@ -13,7 +13,7 @@
 [2026] Naver Financial BE
 
 
-- 📫 How to reach me: seogwoojin@uoslife.team
+- 📫 How to reach me: woojin.seog@navercorp.com
 - 💬 My Blog: https://powerofwriting.tistory.com/
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seogwoojin)](https://github.com/anuraghazra/github-readme-stats)
